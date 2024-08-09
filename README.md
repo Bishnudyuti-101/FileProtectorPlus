@@ -28,4 +28,4 @@ Ensure you have the following installed:
 
  Clone the repository:
    ```bash
-   git clone https://github.com/Bishnudyuti-101/FileProtectorPlus.git
+  https://github.com/Bishnudyuti-101/FileProtectorPlus.git
