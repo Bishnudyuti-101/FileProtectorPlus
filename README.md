@@ -418,6 +418,7 @@ Compliance with local data protection regulations
 For critical data protection requirements, consult with security professionals and conduct thorough testing in non-production environments.
 
 FileProtectorPlus - Enterprise-grade file security for the modern organization
+
 Last updated: January 2024
 Version: 2.0.0
 Documentation version: 1.0
